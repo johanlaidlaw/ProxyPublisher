@@ -23,3 +23,7 @@ then you can use this script as a proxy.
 
 ## Trouble shooting
 If any problems with pexpect then try http://pypi.python.org/pypi/pexpect-u
+
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/e18500a7c8fc53e6e4062e8acc348580 "githalytics.com")](http://githalytics.com/johanlaidlaw/ProxyPublisher)
