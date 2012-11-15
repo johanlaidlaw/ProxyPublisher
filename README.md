@@ -12,7 +12,7 @@ then you can use this script as a proxy.
  - Change the server address
  - Change the subscription key
  - Change the port 
- - Go: python main.py
+ - Go: python run.py
 
 
 ## Required
