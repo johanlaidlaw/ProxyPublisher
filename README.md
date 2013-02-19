@@ -22,7 +22,7 @@ then you can use this script as a proxy.
 
 
 ## Trouble shooting
-If any problems with pexpect then try http://pypi.python.org/pypi/pexpect-u
+If any problems with pexpect then try http://pypi.python.org/pypi/pexpect-u and http://www.noah.org/python/pexpect/
 
 
 
